@@ -1,3 +1,3 @@
-# Online Furniture Store Wordpress-project
+ Wordpress-project
 
 Php , Html , Css , JavaScript, Sql
